@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- Animated header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:03140f,50:0b3b3c,100:115e59&text=Umar%20Sabano&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Namibia&descAlignY=60&descSize=18&animation=twinkling" alt="Umar Sabano - Cybersecurity Student" />
@@ -55,7 +55,7 @@ I'm a first-year **BSc Computer Science (Cybersecurity)** student at the **Namib
 ### 🤝 Let's connect
 
 <!-- Replace YOUR-LINKEDIN with your LinkedIn profile name -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-134E4A?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/umar-sabano-1b3663254/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-134E4A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-sabano-1b3663254/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:115e59,100:03140f&section=footer&animation=twinkling" alt="" />
