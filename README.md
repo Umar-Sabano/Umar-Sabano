@@ -1,7 +1,7 @@
 
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:03140f,50:0b3b3c,100:115e59&text=Umar%20Sabano&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Namibia&descAlignY=60&descSize=18&animation=twinkling" alt="Umar Sabano - Cybersecurity Student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:03140f,50:0b3b3c,100:115e59&text=Umar%20Sabano&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cybersecurity%20Student%20&descAlignY=60&descSize=18&animation=twinkling" alt="Umar Sabano - Cybersecurity Student" />
 </p>
 
 <!-- Typing animation -->
